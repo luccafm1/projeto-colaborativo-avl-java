@@ -1,0 +1,5 @@
+Termo 'black'
+
+> arquivo3.txt: 8
+> arquivo2.txt: 25
+> arquivo1.txt: 21
